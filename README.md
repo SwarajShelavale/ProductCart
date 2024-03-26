@@ -58,7 +58,7 @@ Here are some screenshots of the application:
 
 ### Adding Products
 
-![Adding Products]("https://github.com/SwarajShelavale/ProductCart/blob/main/Assets/01.%20Add%20Product.png")
+![Adding Products]("01.Add_Product.png")
 
 ### Removing Products
 
