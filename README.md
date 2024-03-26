@@ -62,7 +62,7 @@ Here are some screenshots of the application:
 
 ### Removing Products
 
-![Removing Products](images/remove-product.png)
+![Removing Products](01.Add_Product.png)
 
 ### Viewing Cart Total
 
