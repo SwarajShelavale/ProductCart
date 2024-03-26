@@ -17,6 +17,7 @@ This is a console-based application developed using Spring Framework with Spring
 - Spring Framework
 - Spring ORM (Object-Relational Mapping)
 - Maven
+- MySQL Database
 
 
 ## Usage
